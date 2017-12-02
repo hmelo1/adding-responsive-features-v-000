@@ -36,3 +36,11 @@
       font-size: 0.9em;
     }
 }
+
+@media only screen and (max-width: 750px) {
+  .col-1, .col-2, .col-e{
+    width: 100%;
+    margin-left: 0;
+
+  }
+}
