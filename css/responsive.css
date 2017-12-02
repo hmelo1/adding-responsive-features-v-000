@@ -30,6 +30,9 @@
   #social{
     top: 72px;
   }
+  .col-3{
+
+  }
 }
 @media only screen and (max-width: 800px) {
     #navbar nav a {
@@ -38,7 +41,7 @@
 }
 
 @media only screen and (max-width: 750px) {
-  .col-1, .col-2, .col-e{
+  .col-1, .col-2, .col-3{
     width: 100%;
     margin-left: 0;
     float: none;
