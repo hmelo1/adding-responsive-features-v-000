@@ -41,6 +41,6 @@
   .col-1, .col-2, .col-e{
     width: 100%;
     margin-left: 0;
-
+    float: none;
   }
 }
